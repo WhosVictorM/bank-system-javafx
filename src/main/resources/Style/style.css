@@ -1,7 +1,0 @@
-.vBoxEsquerda{
-    -fx-background-color: linear-gradient(to top, #540082, #8201c8);
-}
-
-.vBoxDireita{
-    -fx-background-color: linear-gradient(to bottom, #ffffff, #cfcfcf);
-}
